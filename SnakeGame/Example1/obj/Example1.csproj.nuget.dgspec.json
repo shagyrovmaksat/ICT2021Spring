@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/Example1.csproj": {}
+  },
+  "projects": {
+    "/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/Example1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/Example1.csproj",
+        "projectName": "Example1",
+        "projectPath": "/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/Example1.csproj",
+        "packagesPath": "/Users/maqsat/.nuget/packages/",
+        "outputPath": "/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/maqsat/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

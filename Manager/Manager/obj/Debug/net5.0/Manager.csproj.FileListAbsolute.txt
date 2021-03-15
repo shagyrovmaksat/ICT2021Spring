@@ -1,0 +1,16 @@
+C:\Users\Админ\Desktop\mid\Manager\Manager\bin\Debug\net5.0\Manager.exe
+C:\Users\Админ\Desktop\mid\Manager\Manager\bin\Debug\net5.0\Manager.deps.json
+C:\Users\Админ\Desktop\mid\Manager\Manager\bin\Debug\net5.0\Manager.runtimeconfig.json
+C:\Users\Админ\Desktop\mid\Manager\Manager\bin\Debug\net5.0\Manager.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\mid\Manager\Manager\bin\Debug\net5.0\Manager.dll
+C:\Users\Админ\Desktop\mid\Manager\Manager\bin\Debug\net5.0\ref\Manager.dll
+C:\Users\Админ\Desktop\mid\Manager\Manager\bin\Debug\net5.0\Manager.pdb
+C:\Users\Админ\Desktop\mid\Manager\Manager\obj\Debug\net5.0\Manager.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\mid\Manager\Manager\obj\Debug\net5.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\mid\Manager\Manager\obj\Debug\net5.0\Manager.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\mid\Manager\Manager\obj\Debug\net5.0\Manager.AssemblyInfo.cs
+C:\Users\Админ\Desktop\mid\Manager\Manager\obj\Debug\net5.0\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\mid\Manager\Manager\obj\Debug\net5.0\Manager.dll
+C:\Users\Админ\Desktop\mid\Manager\Manager\obj\Debug\net5.0\ref\Manager.dll
+C:\Users\Админ\Desktop\mid\Manager\Manager\obj\Debug\net5.0\Manager.pdb
+C:\Users\Админ\Desktop\mid\Manager\Manager\obj\Debug\net5.0\Manager.genruntimeconfig.cache

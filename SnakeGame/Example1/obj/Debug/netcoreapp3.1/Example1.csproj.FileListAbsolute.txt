@@ -1,0 +1,29 @@
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/bin/Debug/netcoreapp3.1/Example1.exe
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/bin/Debug/netcoreapp3.1/Example1.deps.json
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/bin/Debug/netcoreapp3.1/Example1.runtimeconfig.json
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/bin/Debug/netcoreapp3.1/Example1.runtimeconfig.dev.json
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/bin/Debug/netcoreapp3.1/Example1.dll
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/bin/Debug/netcoreapp3.1/Example1.pdb
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.csprojAssemblyReference.cache
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.AssemblyInfoInputs.cache
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.AssemblyInfo.cs
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.csproj.CoreCompileInputs.cache
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.dll
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.pdb
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.genruntimeconfig.cache
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/bin/Debug/netcoreapp3.1/Levels/Level1.txt
+C:/Users/bsnbk/source/repos/ict2021spring/Week4/Example1/bin/Debug/netcoreapp3.1/Levels/Level2.txt
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/bin/Debug/netcoreapp3.1/Levels/Level1.txt
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/bin/Debug/netcoreapp3.1/Levels/Level2.txt
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/bin/Debug/netcoreapp3.1/Example1.deps.json
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/bin/Debug/netcoreapp3.1/Example1.runtimeconfig.json
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/bin/Debug/netcoreapp3.1/Example1.runtimeconfig.dev.json
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/bin/Debug/netcoreapp3.1/Example1.dll
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/bin/Debug/netcoreapp3.1/Example1.pdb
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.csprojAssemblyReference.cache
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.AssemblyInfoInputs.cache
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.AssemblyInfo.cs
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.csproj.CoreCompileInputs.cache
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.dll
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.pdb
+/Users/maqsat/Desktop/uni/4 sem/ict/С#/Week4/Example1/obj/Debug/netcoreapp3.1/Example1.genruntimeconfig.cache
